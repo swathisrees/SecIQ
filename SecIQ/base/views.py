@@ -179,3 +179,35 @@ def qr_code_login(request):
 def otp_login(request):
     # Add your OTP sending logic here
     pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Welcome to SecIQ
+                # by Swa & Rag

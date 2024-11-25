@@ -127,10 +127,13 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_URL = 'login'
 
-# settings.py
+# SMTP configuration 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 EMAIL_HOST="smtp.gmail.com"
 EMAIL_PORT=587
 EMAIL_USE_TLS=True
-EMAIL_HOST_USER="SecIQ1111@gmail.com"
-EMAIL_HOST_PASSWORD="Evilc0rpi$down"
+EMAIL_HOST_USER="your email"
+EMAIL_HOST_PASSWORD="your email password"
+
+
+#this is used to reset password , but we receive email in the terminal and not google email 

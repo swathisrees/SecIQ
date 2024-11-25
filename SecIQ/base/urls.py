@@ -13,3 +13,15 @@ urlpatterns = [
     path('login/qrcode/', views.qr_code_login, name='qrcode'),
     path('login/otp/', views.otp_login, name='otp'),
 ]
+
+
+
+
+
+
+
+
+
+
+# Welcome to SecIQ
+                # by Swa & Rag 
