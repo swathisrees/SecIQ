@@ -24,4 +24,4 @@ urlpatterns = [
 
 
 # Welcome to SecIQ
-                # by Swa & Rag 
+                # by Swa & Sreerag 

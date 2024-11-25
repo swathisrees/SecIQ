@@ -210,4 +210,4 @@ def otp_login(request):
 
 
 # Welcome to SecIQ
-                # by Swa & Rag
+                # by Swa & Sreerag
